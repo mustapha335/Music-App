@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap");
+.listItem_container {
+}
+.list_img {
+  width: 47px;
+  height: 47px;
+  border-radius: 50%;
+  margin: 0 5px;
+  border-radius: 174px;
+  background: linear-gradient(145deg, #cfdcf1, #aeb9cb);
+  box-shadow: 5px 5px 11px #b2becf, -5px -5px 11px #d0def3;
+}
+.listItem {
+  display: flex;
+  margin-top: 10px;
+}
+.list_text1 {
+  font-size: 14px;
+  margin-left: 8px;
+  margin-top: 2px;
+
+  font-family: "Catamaran", sans-serif;
+  font-weight: 600;
+}
+.list_text2 {
+  font-size: 15px;
+  color: rgba(46, 49, 49, 1);
+  font-weight: 300;
+}

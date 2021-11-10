@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+.musicPlayer_container {
+  margin-top: -38rem;
+  margin-left: 35%;
+  border-style: solid;
+  border-width: 3px 4px;
+  border-color: red;
+  width: 34rem;
+  height: 85%;
+  border: none;
+}
+.player_img {
+  border-style: solid;
+  border-width: 3px 4px;
+  color: #cfdef1ee;
+  border-radius: 50%;
+  height: 17rem;
+  width: 17rem;
+  margin-top: 10px;
+  margin-left: 25%;
+  border-radius: 50%;
+  background: linear-gradient(145deg, #cfdcf1, #aeb9cb);
+  box-shadow: 10px 10px 20px #a4afbf, -10px -10px 20px #deedff;
+}
+.player_text {
+  border-style: solid;
+  border-width: 3px 4px;
+  border-color: blue;
+  height: 5rem;
+  width: 19rem;
+  margin-top: 2rem;
+  margin-left: 23%;
+  text-align: center;
+  border: none;
+}
+.player_button {
+  border-style: solid;
+  border-width: 3px 4px;
+  border-color: blue;
+  height: 5rem;
+  width: 19rem;
+  margin-top: 0.8rem;
+  margin-left: 23%;
+  display: flex;
+  justify-content: space-around;
+  border: none;
+}
+.player_range {
+  border-style: solid;
+  border-width: 3px 4px;
+  border-color: blue;
+  height: 3rem;
+  width: 25rem;
+  margin-top: 0.2rem;
+  margin-left: 19%;
+  border: none;
+}
+.img {
+  border-radius: 50%;
+  height: 17rem;
+  width: 17rem;
+}
+.player_text1 {
+  font-size: 40px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 600;
+}
+.player_text2 {
+  font-size: 28px;
+  font-weight: 300;
+  font-family: "Roboto Condensed", sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+}
+.button1 {
+  border-radius: 174px;
+  background: linear-gradient(145deg, #9fbee6, #9fbee6);
+  box-shadow: 10px 10px 15px #a0abbb, -10px -10px 15px #e2f1ff;
+  height: 56px;
+  width: 56px;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 30px;
+  border: none;
+}
+.player_range1 {
+  width: 86%;
+  border: none;
+  background-color: #aeb9cb;
+}
+.buttn2 {
+  font-size: 40px !important;
+  text-align: center;
+  margin-top: 6px;
+  margin-left: 0.5px;
+  color: rgb(247, 246, 242, 0.7);
+}

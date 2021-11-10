@@ -1,0 +1,17 @@
+.list_item {
+  border-style: solid;
+  border-width: 3px 4px;
+  border-color: red;
+  height: 97%;
+  margin-top: 16px;
+  border: none;
+}
+.list {
+  border-style: solid;
+  border-width: 2px 3px;
+  border-color: blue;
+  width: 13.6rem;
+  margin-left: 51px;
+  height: 75%;
+  border: none;
+}
